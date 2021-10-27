@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"><img src="https://media.tenor.com/images/9d8210d2094d9eea0010ca67d0cfbe62/tenor.gif" width="32px">
 
-I am Devyn, a student at Singapore Polytechnic, currently studying Applied Artificial Intelligence and Analytics. I enjoy doing web development and have a keen interest to learn more about programming.
+I am Devyn, a student at Singapore Polytechnic, currently studying Applied Artificial Intelligence and Analytics. I enjoy doing web development and have a keen interest to become a software developer.
 
-- 📊 Aspiring Programmer
+- 📊 Aspiring Software Developer
 - 🦾 Currently learning Machine Learning
 
 ---
