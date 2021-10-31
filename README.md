@@ -1,4 +1,4 @@
-# Hey there 👋 
+## Hey there 👋 
 
 <!--
 **devynchew/devynchew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,7 +30,7 @@ I am Devyn, a student at Singapore Polytechnic, currently studying Applied Artif
 
 ---
 
-## 🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
@@ -38,7 +38,7 @@ I am Devyn, a student at Singapore Polytechnic, currently studying Applied Artif
 
 
 
-## &#x1f4c8; GitHub Stats 
+### &#x1f4c8; GitHub Stats 
 
 <a href="https://github.com/TYH71/TYH71">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=devynchew&show_icons=True&theme=cobalt" />
