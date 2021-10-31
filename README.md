@@ -1,4 +1,4 @@
-# Hi there 👋 
+# Hey there 👋 
 
 <!--
 **devynchew/devynchew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,13 +21,12 @@ Here are some ideas to get you started:
 
 ---
 -->
-
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"><img src="https://media.tenor.com/images/9d8210d2094d9eea0010ca67d0cfbe62/tenor.gif" width="32px">
+<p><a href="https://www.linkedin.com/in/devyn-chew-798653126/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/devyn_chew/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 
 I am Devyn, a student at Singapore Polytechnic, currently studying Applied Artificial Intelligence and Analytics. I enjoy doing web development and have a keen interest to become a software developer.
 
-- 📊 Aspiring Software Developer
-- 🦾 Currently learning Machine Learning
+- ⭐ Aspiring Software Developer
+- 💡 Currently learning Machine Learning
 
 ---
 
