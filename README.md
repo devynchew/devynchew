@@ -28,7 +28,7 @@ I am Devyn, a student at Singapore Polytechnic, currently studying Applied Artif
 - ⭐ Aspiring Software Developer
 - 💡 Currently learning Machine Learning
 
-##Connect with me:
+## Connect with me:
 
 - LinkedIn: https://www.linkedin.com/in/devyn-chew-798653126/
 - Instagram: https://www.instagram.com/devyn_chew/
