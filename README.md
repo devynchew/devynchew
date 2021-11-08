@@ -30,9 +30,9 @@ I am Devyn, a student at Singapore Polytechnic, currently studying Applied Artif
 
 ## Connect with me:
 
-- LinkedIn: https://www.linkedin.com/in/devyn-chew-798653126/
-- Instagram: https://www.instagram.com/devyn_chew/
-- E-portfolio: devynchew.github.io
+- [LinkedIn](https://www.linkedin.com/in/devyn-chew-798653126/)
+- [Instagram](https://www.instagram.com/devyn_chew/)
+- [E-portfolio](devynchew.github.io)
 
 ![cat GIF](https://github.com/devynchew/devynchew/blob/main/assets/cat.gif?raw=true)
 ---
@@ -47,9 +47,9 @@ I am Devyn, a student at Singapore Polytechnic, currently studying Applied Artif
 
 ### &#x1f4c8; GitHub Stats 
 
-<a href="https://github.com/TYH71/TYH71">
+<a href="https://github.com/devynchew">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=devynchew&show_icons=True&theme=cobalt" />
 </a>
-<a href="https://github.com/TYH71/TYH71">
+<a href="https://github.com/devynchew">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devynchew&show_icons=true&theme=cobalt" />
 </a>
