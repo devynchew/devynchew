@@ -47,9 +47,7 @@ I am Devyn, a student at Singapore Polytechnic, currently studying Applied Artif
 
 ### &#x1f4c8; GitHub Stats 
 
-<a href="https://github.com/devynchew">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devynchew&show_icons=True&theme=cobalt" />
-</a>
-<a href="https://github.com/devynchew">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devynchew&show_icons=true&theme=cobalt" />
-</a>
+
+[![Devyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=devynchew)](https://github.com/devynchew/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devynchew)](https://github.com/devynchew/github-readme-stats)
