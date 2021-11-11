@@ -46,7 +46,7 @@ Welcome to Devyn's profile! 👋
 I am Devyn, a student at Singapore Polytechnic, currently studying Applied Artificial Intelligence and Analytics. I enjoy doing web development and have a keen interest to become a software developer.
 
 
-## 📘 Check out my e-portfolio:
+## ⚡ Check out my e-portfolio:
 
 - [E-portfolio](devynchew.github.io)
 
