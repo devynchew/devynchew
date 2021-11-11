@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 ---
 -->
-<img src='https://github.com/devynchew/devynchew/blob/main/assets/blogging.svg' style="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;"/>
+<div style="text-align: center;">
+    <img src='https://github.com/devynchew/devynchew/blob/main/assets/blogging.svg'/>
+</div>
+
 
 
 <p><a href="https://www.linkedin.com/in/devyn-chew-798653126/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/devyn_chew/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
