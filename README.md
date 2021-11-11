@@ -23,7 +23,7 @@ Welcome to Devyn's profile! 👋
 
 <!-- Typing text -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F78E69&size=25&lines=Aspiring+software+developer;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23FF6B6B&size=25&lines=Aspiring+software+developer;Always+learning+new+things;Loves+web+dev"></a>
 </p>
 
 <!-- Image -->
