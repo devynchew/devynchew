@@ -32,13 +32,13 @@ Welcome to Devyn's profile! 👋
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/devyn-chew-798653126/">
+    <a href="https://www.linkedin.com/in/devyn-chew-798653126/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
     </a> 
-    <a href="https://www.instagram.com/devyn_chew/">
+    <a href="https://www.instagram.com/devyn_chew/" target="_blank">
         <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
     </a>
-    <a href="mailto: devynchew@gmail.com"> 
+    <a href="mailto: devynchew@gmail.com" target="_blank"> 
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height:25px;">
     </a>    
 </p>
