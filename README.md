@@ -14,32 +14,34 @@ Here are some ideas to get you started:
 - ## Connect with me:
 
 ---
-
 -->
+
+<!-- Welcome message -->
 <h3 align="center">
 Welcome to Devyn's profile! 👋
 </h3>
-<!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23494368&center=true&vCenter=true&lines=Aspiring+software+developer;Always+learning+new+things)(https://git.io/typing-svg) -->
+
+<!-- Typing text -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23302F4D&size=25&lines=Aspiring+software+developer;Always+learning+new+things"></a>
 </p>
 
+<!-- Image -->
 <p align="center">
     <img src="https://github.com/devynchew/devynchew/blob/main/assets/blogging.svg" width='400' />
 </p>
 
-<p><a href="https://www.linkedin.com/in/devyn-chew-798653126/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/devyn_chew/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/devyn-chew-798653126/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/devyn_chew/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 
 I am Devyn, a student at Singapore Polytechnic, currently studying Applied Artificial Intelligence and Analytics. I enjoy doing web development and have a keen interest to become a software developer.
 
 - ⭐ Aspiring Software Developer
 - 💡 Currently learning Machine Learning
 
-## Check my:
+## Check out my e-portfolio:
 
 - [E-portfolio](devynchew.github.io)
 
-## <!-- ![cat GIF](https://github.com/devynchew/devynchew/blob/main/assets/cat.gif?raw=true) -->
 
 ### 🔧 Technologies & Tools
 
