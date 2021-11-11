@@ -23,7 +23,7 @@ Welcome to Devyn's profile! 👋
 
 <!-- Typing text -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23FF6B6B&size=25&lines=Aspiring+software+developer;Always+learning+new+things;Loves+web+dev"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23FF6B6B&size=25&lines=Aspiring+software+developer;Always+learning+new+things;Loves+web+development"></a>
 </p>
 
 <!-- Image -->
@@ -45,8 +45,6 @@ Welcome to Devyn's profile! 👋
 
 I am Devyn, a student at Singapore Polytechnic, currently studying Applied Artificial Intelligence and Analytics. I enjoy doing web development and have a keen interest to become a software developer.
 
-- ⭐ Aspiring Software Developer
-- 💡 Currently learning Machine Learning
 
 ## 📘 Check out my e-portfolio:
 
