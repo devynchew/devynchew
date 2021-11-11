@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 
 <!-- Welcome message -->
-<h3 align="center">
+<h2 align="center">
 Welcome to Devyn's profile! 👋
-</h3>
+</h2>
 
 <!-- Typing text -->
 <p align="center">
@@ -43,7 +43,7 @@ I am Devyn, a student at Singapore Polytechnic, currently studying Applied Artif
 - [E-portfolio](devynchew.github.io)
 
 
-### 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -59,7 +59,7 @@ I am Devyn, a student at Singapore Polytechnic, currently studying Applied Artif
   </a>
 </p>
 
-### &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats
 
 [![Devyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=devynchew&theme=discord_old_blurple)](https://github.com/devynchew/github-readme-stats)
 
