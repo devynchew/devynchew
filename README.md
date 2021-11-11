@@ -31,7 +31,17 @@ Welcome to Devyn's profile! 👋
     <img src="https://github.com/devynchew/devynchew/blob/main/assets/blogging.svg" width='400' />
 </p>
 
-<p align="center"><a href="https://www.linkedin.com/in/devyn-chew-798653126/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/devyn_chew/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
+<p align="center">
+    <a href="https://www.linkedin.com/in/devyn-chew-798653126/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+    </a> 
+    <a href="https://www.instagram.com/devyn_chew/">
+        <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+    </a>
+    <a href="mailto: devynchew@gmail.com"> 
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height:25px; width:90px">
+    </a>    
+</p>
 
 I am Devyn, a student at Singapore Polytechnic, currently studying Applied Artificial Intelligence and Analytics. I enjoy doing web development and have a keen interest to become a software developer.
 
@@ -42,12 +52,15 @@ I am Devyn, a student at Singapore Polytechnic, currently studying Applied Artif
 
 - [E-portfolio](devynchew.github.io)
 
-## 🔧 Technologies & Tools
+## 🔧 Languages & Tools
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-
----
+<p align="left"> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</p>
 
 ## 🔥 Streak stats
 
