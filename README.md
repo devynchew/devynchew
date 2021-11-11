@@ -42,7 +42,6 @@ I am Devyn, a student at Singapore Polytechnic, currently studying Applied Artif
 
 - [E-portfolio](devynchew.github.io)
 
-
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -54,14 +53,20 @@ I am Devyn, a student at Singapore Polytechnic, currently studying Applied Artif
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Devyn's streak" src="http://github-readme-streak-stats.herokuapp.com?user=devynchew&theme=monokai-metallian&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-  </a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Devyn's streak" src="http://github-readme-streak-stats.herokuapp.com?user=devynchew&theme=monokai-metallian&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+    </a>
 </p>
 
 ## &#x1f4c8; GitHub Stats
 
-[![Devyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=devynchew&theme=discord_old_blurple)](https://github.com/devynchew/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devynchew&theme=slateorange)](https://github.com/devynchew/github-readme-stats)
-
+<p align="center">
+    <a href="https://github.com/devynchew/github-readme-stats">
+    <img title="Github Stats" alt="Devyn's github stats" src="https://github-readme-stats.vercel.app/api?username=devynchew&theme=discord_old_blurple&hide_border=True"/>
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/devynchew/github-readme-stats">
+    <img title="Github Stats" alt="Devyn's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devynchew&theme=discord_old_blurple&hide_border=True"/>
+    </a>
+</p>
