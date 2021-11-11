@@ -21,7 +21,7 @@ Welcome to Devyn's profile! 👋
 </h3>
 <!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23494368&center=true&vCenter=true&lines=Aspiring+software+developer;Always+learning+new+things)(https://git.io/typing-svg) -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23302F4D&size=25&lines=Aspiring+software+developer;Always+learning+new+things)](https://git.io/typing-svg"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23302F4D&size=25&lines=Aspiring+software+developer;Always+learning+new+things"></a>
 </p>
 
 <p align="center">
@@ -35,10 +35,8 @@ I am Devyn, a student at Singapore Polytechnic, currently studying Applied Artif
 - ⭐ Aspiring Software Developer
 - 💡 Currently learning Machine Learning
 
-## Connect with me:
+## Check my:
 
-- [LinkedIn](https://www.linkedin.com/in/devyn-chew-798653126/)
-- [Instagram](https://www.instagram.com/devyn_chew/)
 - [E-portfolio](devynchew.github.io)
 
 ## <!-- ![cat GIF](https://github.com/devynchew/devynchew/blob/main/assets/cat.gif?raw=true) -->
