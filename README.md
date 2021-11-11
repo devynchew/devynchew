@@ -39,7 +39,7 @@ Welcome to Devyn's profile! 👋
         <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
     </a>
     <a href="mailto: devynchew@gmail.com"> 
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height:25px; width:90px">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height:25px;">
     </a>    
 </p>
 
