@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 
 <!-- Welcome message -->
-<h2 align="center">
+<h3 align="center">
 Welcome to Devyn's profile! 👋
-</h2>
+</h3>
 
 <!-- Typing text -->
 <p align="center">
