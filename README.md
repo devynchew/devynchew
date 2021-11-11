@@ -1,6 +1,6 @@
 # Hey there 👋
 
-[![Banner for Devyn](https://github.com/devynchew/devynchew/blob/main/assets/blogging.svg)]()
+<!-- [![Banner for Devyn](https://github.com/devynchew/devynchew/blob/main/assets/blogging.svg)]() -->
 <!--
 **devynchew/devynchew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
