@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ---
 -->
-<div style="text-align: center;" width='500'>
+<div style="text-align: center; width: 500px;">
     <img src='https://github.com/devynchew/devynchew/blob/main/assets/blogging.svg'/>
 </div>
 
