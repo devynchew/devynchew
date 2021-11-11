@@ -1,5 +1,5 @@
 # Hey there 👋 
-
+[![Header](https://github.com/devynchew/devynchew/blob/main/assets/blogging.svg)]
 <!--
 **devynchew/devynchew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ## Connect with me:
-
-- LinkedIn: https://www.linkedin.com/in/tan-yu-hoe-6728891ab/
-- Instagram: https://www.instagram.com/tyh71/
-- GitHub: https://www.github.com/TYH71/
 
 ---
 -->
@@ -34,7 +30,7 @@ I am Devyn, a student at Singapore Polytechnic, currently studying Applied Artif
 - [Instagram](https://www.instagram.com/devyn_chew/)
 - [E-portfolio](devynchew.github.io)
 
-![cat GIF](https://github.com/devynchew/devynchew/blob/main/assets/cat.gif?raw=true)
+<!-- ![cat GIF](https://github.com/devynchew/devynchew/blob/main/assets/cat.gif?raw=true) -->
 ---
 
 ### 🔧 Technologies & Tools
