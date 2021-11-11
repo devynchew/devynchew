@@ -1,6 +1,3 @@
-# Hey there 👋
-
-<!-- [![Banner for Devyn](https://github.com/devynchew/devynchew/blob/main/assets/blogging.svg)]() -->
 <!--
 **devynchew/devynchew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,10 +14,15 @@ Here are some ideas to get you started:
 - ## Connect with me:
 
 ---
+
 -->
-<p align="center">
-  <img src="https://github.com/devynchew/devynchew/blob/main/assets/blogging.svg" width='400' />
-</p>
+<h3 align="center">
+Welcome to Devyn's profile! 👋
+    <p align="center">
+        <img src="https://github.com/devynchew/devynchew/blob/main/assets/blogging.svg" width='400' />
+    </p>
+</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23494368&center=true&vCenter=true&lines=Aspiring+software+developer;Always+learning+new+things)](https://git.io/typing-svg)
 
 <p><a href="https://www.linkedin.com/in/devyn-chew-798653126/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/devyn_chew/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 
