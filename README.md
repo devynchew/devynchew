@@ -38,7 +38,7 @@ I am Devyn, a student at Singapore Polytechnic, currently studying Applied Artif
 - ⭐ Aspiring Software Developer
 - 💡 Currently learning Machine Learning
 
-## Check out my e-portfolio:
+## 📘 Check out my e-portfolio:
 
 - [E-portfolio](devynchew.github.io)
 
