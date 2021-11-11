@@ -81,3 +81,6 @@ I am Devyn, a student at Singapore Polytechnic, currently studying Applied Artif
     <img title="Github Stats" alt="Devyn's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devynchew&theme=discord_old_blurple&hide_border=True"/>
     </a>
 </p>
+
+<!-- https://github.com/devynchew/github-readme-activity-graph -->
+<a href="https://github.com/devynchew/github-readme-activity-graph"><img alt="Devyn's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=devynchew&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
