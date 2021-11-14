@@ -28,7 +28,7 @@ Welcome to Devyn's profile! 👋
 
 <!-- Image -->
 <p align="center">
-    <img src="https://github.com/devynchew/devynchew/blob/main/assets/blogging.svg" width='400' />
+    <img src="https://github.com/devynchew/devynchew/blob/main/assets/cat.svg" width='400' />
 </p>
 
 <p align="center">
