@@ -43,7 +43,7 @@ Welcome to Devyn's profile! 👋
     </a>    
 </p>
 
-I am Devyn, a student at Singapore Polytechnic, currently studying Applied Artificial Intelligence and Analytics. I enjoy doing web development and have a keen interest to become a software developer.
+I am Devyn, a student at Singapore Institute of Technology, currently studying Software Engineering. I enjoy doing web development and have a keen interest to become a web developer.
 
 
 <!-- ## ⚡ Check out my e-portfolio:
